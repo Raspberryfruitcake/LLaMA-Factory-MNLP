@@ -5,8 +5,17 @@
   "alpaca_en_demo": {
     "file_name": "alpaca_en_demo.json"
   },
-  "alpaca_zh_demo": {
-    "file_name": "alpaca_zh_demo.json"
+  "alpaca_combined_final_fixed": {
+    "hf_hub_url": "Raspberryfruitcake/MNLP_M3_quantized_dataset" 
+  },
+  "qayemmehdi/MNLP_M3_dpo_dataset":: {
+  "hf_hub_url": "qayemmehdi/MNLP_M3_dpo_dataset",
+  "ranking": true,
+  "columns": {
+  "prompt": "prompt",
+  "chosen": "chosen",
+  "rejected": "rejected"
+  }
   },
   "glaive_toolcall_en_demo": {
     "file_name": "glaive_toolcall_en_demo.json",
