@@ -8,7 +8,7 @@
   "alpaca_combined_final_fixed": {
     "hf_hub_url": "Raspberryfruitcake/MNLP_M3_quantized_dataset" 
   },
-  "qayemmehdi/MNLP_M3_dpo_dataset":: {
+  "qayemmehdi/MNLP_M3_dpo_dataset": {
   "hf_hub_url": "qayemmehdi/MNLP_M3_dpo_dataset",
   "ranking": true,
   "columns": {
